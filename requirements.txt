@@ -1,0 +1,11 @@
+streamlit==1.31.0
+pandas
+numpy
+plotly
+Pillow==10.2.0
+opencv-python
+scikit-learn
+requests==2.31.0
+streamlit==1.31.0
+opencv-python 
+numpy
